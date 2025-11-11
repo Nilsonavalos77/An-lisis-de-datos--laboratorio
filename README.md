@@ -97,6 +97,6 @@ El notebook está preparado para ejecutarse sin configuración adicional.
 
 ---
 
-# 📥 Cómo ejecutar este proyecto
+#  Cómo ejecutar este proyecto
 
 1. Abrí el notebook entrando a:
